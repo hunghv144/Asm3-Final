@@ -1,0 +1,96 @@
+@media screen and (max-width: 767.98px) {
+  .container,
+  .about {
+    font-size: 16px;
+  }
+  .about {
+    flex-wrap: wrap;
+  }
+  .target {
+    width: 100%;
+  }
+  .bg-about {
+    background-image: none;
+  }
+  .container {
+    width: 98%;
+    margin: 0 auto;
+  }
+  h2 {
+    font-size: 18px;
+  }
+  .project h3 {
+    font-size: 16px;
+  }
+  .banner-name {
+    font-size: 18px;
+    top: 20%;
+  }
+  .logo {
+    display: none;
+  }
+  .nav-bar {
+    flex-direction: column;
+    border-left: 0;
+    align-items: start;
+    margin-left: 20px;
+  }
+
+  .nav {
+    border: none;
+  }
+  .nav > a {
+    display: flex;
+    gap: 10px;
+  }
+  .swap {
+    order: 2;
+  }
+  .about {
+    flex-wrap: wrap;
+  }
+  .target {
+    padding: 50px 40px;
+    border-bottom: solid 1px rgb(218, 212, 212);
+  }
+
+  .job-info {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .info {
+    width: 100%;
+  }
+  .certificate {
+    width: 95%;
+    grid-template-columns: 1fr;
+    gap: 25px;
+    margin: 0 auto;
+    padding: 10px 0;
+  }
+  #certificate h2 {
+    margin-left: 15px;
+  }
+  .lineright {
+    padding-bottom: 20px;
+    border-right: none;
+    border-bottom: solid 2px #d6c08d;
+  }
+  .project {
+    width: 95%;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  #project h2 {
+    margin-left: 15px;
+  }
+  .footer > a {
+    display: none;
+  }
+  .bar-if {
+    flex-direction: column;
+    align-items: start;
+  }
+}

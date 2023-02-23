@@ -42,6 +42,7 @@ h2 {
   background-size: cover;
   position: relative;
   background-size: cover;
+  z-index: 3;
 }
 
 .banner-name {

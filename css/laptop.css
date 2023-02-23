@@ -76,9 +76,9 @@ h2 {
   display: inline-block;
   padding: 20px 25px;
 }
-.nav-bar a:hover {
+.nav:hover {
   color: rgb(77, 75, 75);
-  background-color: rgb(209, 199, 197);
+  background-color: rgba(231, 230, 228, 0.39);
 }
 .nav-bar span {
   font-size: 10px;

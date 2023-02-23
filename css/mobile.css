@@ -39,6 +39,9 @@
   .nav {
     border: none;
   }
+  .nav:hover {
+    width: 100%;
+  }
   .nav > a {
     display: flex;
     gap: 10px;

@@ -35,7 +35,7 @@ h2 {
       rgba(0, 0, 255, 0.301),
       rgba(255, 166, 0, 0.322)
     ),
-    url(/images/banner1.jpg);
+    url(./images/banner1.jpg);
   background-size: cover;
   position: relative;
   background-size: cover;

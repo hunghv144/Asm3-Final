@@ -93,7 +93,7 @@ h2 {
   border-radius: 100px;
   border: solid 4px rgb(235, 231, 231);
   position: absolute;
-  top: -150%;
+  top: -55%;
   left: 50%;
   transform: translate(-50%, 0);
 }

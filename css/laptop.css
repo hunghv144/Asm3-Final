@@ -30,7 +30,7 @@ h2 {
   height: 58vh;
 }
 /* Sử dụng .background-image  thay thế */
-.background {
+/* .background {
   width: 100%;
   height: 58vh;
   background-image: linear-gradient(
@@ -42,8 +42,7 @@ h2 {
   background-size: cover;
   position: relative;
   background-size: cover;
-  z-index: 3;
-}
+} */
 
 .banner-name {
   position: absolute;
